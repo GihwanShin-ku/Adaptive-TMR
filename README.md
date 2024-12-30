@@ -41,7 +41,7 @@ Ensure you have the following dependencies installed:
    cd adaptive-tmr
    ```
 
-2. Download EEG and behavioral data from [Figshare].
+2. Download EEG and behavioral data from [Open Science Framework (OSF)](https://osf.io/3g8rm).
 
 3. Perform **Behavior** analysis using the following scripts:
    - `Accuracy`: Calculate accuracy metrics.
