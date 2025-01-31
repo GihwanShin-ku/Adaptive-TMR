@@ -2,7 +2,7 @@
 
 This repository contains the scripts associated with the manuscript:
 
-**"Adaptive targeted memory reactivation tailored to learning difficulty enhances memory consolidation via slow wave-spindle dynamics."**
+**"Neural Dynamics of Adaptive Stimulation for Enhancing Working Memory During Sleep."**
 
 ## Code Structure
 The repository is organized into the following main directories:
