@@ -2,7 +2,7 @@
 
 This repository contains the scripts associated with the manuscript:
 
-**"Neural Dynamics of Adaptive Stimulation for Enhancing Working Memory During Sleep."**
+**"Adaptive Stimulation Based on Learning Difficulty for Enhancing Working Memory via Slow Wave-Spindle Dynamics."**
 
 ## Code Structure
 The repository is organized into the following main directories:
