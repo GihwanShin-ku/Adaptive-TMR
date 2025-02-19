@@ -2,7 +2,7 @@
 
 This repository contains the scripts associated with the manuscript:
 
-**"Adaptive Stimulation Based on Learning Difficulty for Enhancing Working Memory via Slow Wave-Spindle Dynamics."**
+**"Adaptive targeted memory reactivation for challenging memories enhances consolidation via slow wave–spindle dynamics."**
 
 ## Code Structure
 The repository is organized into the following main directories:
