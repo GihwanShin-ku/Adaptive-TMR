@@ -2,7 +2,7 @@
 
 This repository contains the scripts associated with the manuscript:
 
-**"Adaptive targeted memory reactivation enhances learning and consolidation for challenging memories via slow-wave spindle dynamics."**
+**"Adaptive targeted memory reactivation enhances learning and consolidation of challenging memories via slow-wave spindle dynamics."**
 
 ## Code Structure
 The repository is organized into the following main directories:
