@@ -1,8 +1,8 @@
-# Adaptive Targeted Memory Reactivation
+# Personalized Targeted Memory Reactivation
 
 This repository contains the scripts associated with the manuscript:
 
-**"Adaptive targeted memory reactivation enhances learning and consolidation of challenging memories via slow-wave spindle dynamics."**
+**"Personalized targeted memory reactivation enhances learning and consolidation of challenging memories via slow-wave spindle dynamics."**
 
 ## Code Structure
 The repository is organized into the following main directories:
@@ -37,8 +37,8 @@ Ensure you have the following dependencies installed:
 ### Steps to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/GihwanShin-ku/adaptive-tmr.git
-   cd adaptive-tmr
+   git clone https://github.com/GihwanShin-ku/Personalized-tmr.git
+   cd Personalized-tmr
    ```
 
 2. Download EEG and behavioral data from [Open Science Framework (OSF)](https://osf.io/3g8rm).
