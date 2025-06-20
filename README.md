@@ -2,7 +2,7 @@
 
 This repository contains the scripts associated with the manuscript:
 
-**"Personalized targeted memory reactivation enhances learning and consolidation of challenging memories via slow-wave spindle dynamics."**
+**"Personalized targeted memory reactivation enhances consolidation of challenging memories via slow wave and spindle dynamics."**
 
 ## Code Structure
 The repository is organized into the following main directories:
